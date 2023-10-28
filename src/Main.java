@@ -33,12 +33,12 @@ public class Main {
         System.out.println("Значение переменной d: " + d);
 
         final double PI = 3.14;
-        final double g = 9.80665;
-        final String myCity = "Kokshetau";
+        final double G = 9.80665;
+        final String MY_CITY = "Kokshetau";
 
         System.out.println("Значение константы PI: " + PI);
-        System.out.println("Значение константы g: " + g);
-        System.out.println("Значение константы myCity: " + myCity);
+        System.out.println("Значение константы G: " + G);
+        System.out.println("Значение константы MY_CITY: " + MY_CITY);
 
         // ДЗ 3.3
         System.out.println(dz3_3);
